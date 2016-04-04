@@ -1,7 +1,7 @@
 ![LostKingdom](http://postfiles14.naver.net/20160304_45/asdfgo0_14570194568040LeHu_PNG/lost1.png?type=w3)
 ![LostKingdom](http://postfiles9.naver.net/20160304_280/asdfgo0_1457019457026z5lHE_PNG/lost2.png?type=w3)
 
-# Lost kingdom은 MFC로 온라인 2D ARPG 입니다.
+# Lost kingdom은 MFC로 만든 온라인 2D ARPG 입니다.
 
    * 방을 만들고 접속을 합니다.
    * 채팅을 통해 서로 선택할 캐릭터를 정하고 게임을 시작합니다.
